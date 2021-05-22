@@ -11,9 +11,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: stack-overflow
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://stackoverflow.com/users/10289809/christopher-thompson
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -24,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Morris & Opazo
+    url: https://www.morrisopazo.com/
 education:
   courses:
     - course: PhD in Artificial Intelligence
