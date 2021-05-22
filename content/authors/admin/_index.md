@@ -44,9 +44,11 @@ highlight_name: false
 title: Christopher Thompson
 email: ""
 ---
+I am a person defined in the professional world as someone with a great capacity to adapt to different roles. With my 25 years of age, I feel that every day is a day to try different things, such as new roles, new challenges or new horizons that I could take thanks to technology.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I graduated as a Computer Engineer in 2018, where I had the opportunity to find a job where I began to learn about the realities in the professional world.
+I can proudly say that I have 2 years of experience (counted since I wrote this biography haha) in the world of work, which has given me important values ​​regarding how committed I can be to my work. I like being part of communities around the world, with the aim of learning new cultures, knowledge and experiences from other people and professionals.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I can say that one of the great virtues that I feel I have is commitment, loyalty, and listening to others always wanting to learn from each one of them. I hope that is my greatest legacy at a professional level.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
