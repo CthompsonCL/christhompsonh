@@ -51,4 +51,4 @@ I can proudly say that I have 2 years of experience (counted since I wrote this 
 
 I can say that one of the great virtues that I feel I have is commitment, loyalty, and listening to others always wanting to learn from each one of them. I hope that is my greatest legacy at a professional level.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_christopher_thompson.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/cv_christopher_thompson.pdf" "newtab" >}}CV{{< /staticref >}}.
