@@ -1,6 +1,6 @@
 ---
 role: Solution Architect | Project Manager | Data Engineer
-avatar_filename: 1550956518718.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
