@@ -51,3 +51,5 @@ I graduated as a Computer Engineer in 2018, where I had the opportunity to find 
 I can proudly say that I have 2 years of experience (counted since I wrote this biography haha) in the world of work, which has given me important values ​​regarding how committed I can be to my work. I like being part of communities around the world, with the aim of learning new cultures, knowledge and experiences from other people and professionals.
 
 I can say that one of the great virtues that I feel I have is commitment, loyalty, and listening to others always wanting to learn from each one of them. I hope that is my greatest legacy at a professional level.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
