@@ -15,16 +15,16 @@ social:
     icon_pack: fab
     link: https://stackoverflow.com/users/10289809/christopher-thompson
     display:
+      header: false
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/cthompsonh/
+    label: LinkedIn
+    display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Morris & Opazo
     url: https://www.morrisopazo.com/
