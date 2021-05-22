@@ -1,5 +1,5 @@
 ---
-role: Solution Architect
+role: Solution Architect | Project Manager | Data Engineer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
